@@ -1,0 +1,21 @@
+    {
+      "id": 1,
+      "username": "vishal-verma@hcl.com",
+      "password": "abcd",
+      "name": "Vishal Verma",
+      "admin": false
+    },
+    {
+      "id": 2,
+      "username": "admin@gmail.com",
+      "password": "1234",
+      "name": "Admin",
+      "admin": true
+    },
+    {
+      "username": "shyam@gmail.com",
+      "password": "welcome",
+      "name": "Shyam",
+      "admin": false,
+      "id": 3
+    }
