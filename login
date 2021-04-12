@@ -1,5 +1,4 @@
-{
-  "Login": [
+[
     {
       "id": 1,
       "username": "vishal-verma@hcl.com",
@@ -21,5 +20,4 @@
       "admin": false,
       "id": 3
     }
-  ]
-}
+ ]
