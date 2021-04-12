@@ -1,6 +1,5 @@
 [
     {
-    "A" : 1,
       "id": 1,
       "username": "vishal-verma@hcl.com",
       "password": "abcd",
